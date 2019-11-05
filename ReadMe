@@ -1,10 +1,12 @@
-	This project was written by Meir Yagayev and Bar Siman Tov
-	as an assistant at the course "Topic in Logic Puzzel"
-  	by prof. Daniel Berend 
-  	Ben Gurion University of the Negev 
-  	2018
+This project was written by Meir Yagayev and Bar Siman Tov
+as an assistant at the course "Topic in Logic Puzzel"
+by prof. Daniel Berend 
+Ben Gurion University of the Negev 
+2018
 	
-Our solution to this game consists of a naive solver finds partial solutions in polynomial time, an SAT reduction, and a combination of the two.Light-up.pdf is the document we wrote(in Hebrew) about the game and our solution:
+Our solution to this game consists of a naive solver finds partial solutions in polynomial time, an SAT reduction,
+and a combination of the two.
+Light-up.pdf is the document we wrote(in Hebrew) about the game and our solution:
 * The rules 
 * How we created puzzles with different parameters and of various sizes 
 * The different solution aproches 
